@@ -1,4 +1,4 @@
-## Nearby Places Finder Documentation
+## Location Tracker + Nearby Places Finder Documentation
 
 This project is a web application that uses Mapbox GL JS and the Mapbox Geocoding API to find nearby places of interest based on user location or a searched location. The application also includes a weather feature using the OpenWeatherMap API.
 
